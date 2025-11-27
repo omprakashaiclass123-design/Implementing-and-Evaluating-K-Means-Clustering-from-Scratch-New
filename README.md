@@ -1,0 +1,2 @@
+# Implementing-and-Evaluating-K-Means-Clustering-from-Scratch-New
+This project implements K-Means clustering from scratch using NumPy, including initialization, iterative assignment, and centroid updates. A synthetic dataset is generated, and inertia values for K=1–10 are computed for the Elbow Method. The optimal K is then evaluated using Silhouette Analysis, followed by interpreting the clustering results.
